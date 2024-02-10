@@ -1,6 +1,3 @@
-# PHP in WordPress
-PHP sample codes that I tested and used:
-
 # Telegram 
 
 This class was created to send text to your channel in Telegram.
